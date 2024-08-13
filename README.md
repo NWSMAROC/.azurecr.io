@@ -1,0 +1,2 @@
+# .azurecr.io
+azurecr.io
